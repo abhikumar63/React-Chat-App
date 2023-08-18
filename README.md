@@ -1,4 +1,4 @@
-##React-Chat-App
+## React-Chat-App
 
 This is demo chat app which creates a chatroom and a user can join and enjoy the chatroom by signing in.
 
